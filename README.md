@@ -1,6 +1,6 @@
-- 👋 Olá, me chamo Amália.
-- 🌱 Sou estudante de Engenharia de Software.
-- 💞️ Tenho como objetivo ser desenvolvedora back-end.
+
+- 🌱 Estudante de Engenharia de Software.
+- 💞️ Como objetivo ser desenvolvedora back-end.
 
 
 <!---
