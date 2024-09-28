@@ -1,6 +1,6 @@
 
 - 🌱 Estudante de Engenharia de Software.
-- 💞️ Objetivo ser desenvolvedora back-end.
+
 
 
 <!---
